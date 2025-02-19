@@ -1,4 +1,4 @@
-name: eShopOnWeb Build and Test NEW
+name: eShopOnWeb Build and Test NEW1
 
 #Triggers (uncomment line below to use it)
 on: [push, pull_request, workflow_dispatch]
